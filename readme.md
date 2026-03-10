@@ -8,7 +8,7 @@ This project simulates core ecommerce features such as product listing, search, 
 
 ## 🚀 Live Demo
 
-https://your-vercel-link.vercel.app
+https://amazon-clone-project-zeta.vercel.app/
 
 ---
 
