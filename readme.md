@@ -1,4 +1,4 @@
-# 🛒 Amazon Clone (Frontend)
+# 🛒 ShopEase Frontend
 
 A responsive Amazon-style ecommerce website built using **HTML, CSS, and JavaScript**.
 
@@ -8,7 +8,7 @@ This project simulates core ecommerce features such as product listing, search, 
 
 ## 🚀 Live Demo
 
-https://amazon-clone-project-zeta.vercel.app/
+https://shopease-store-taupe.vercel.app/
 
 ---
 
